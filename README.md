@@ -1,5 +1,6 @@
 # Inventory-Management-System
 I made an inventory management system. A simple inventory management system is built with json files. In this project Customer can purchase products and generate bills.
+
 Steps to use :-
 1.Customer can enter the product ID and quantity of the product they want to purchase.
 2.After entering the details, they can purchase products and bill will be generated with total billing amount.
